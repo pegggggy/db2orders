@@ -4,7 +4,7 @@ connection: "db2_pb"
 include: "*.view"
 
 # include all the dashboards
-include: "*.dashboard"
+# include: "*.dashboard"
 
 datagroup: db2_orders_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;

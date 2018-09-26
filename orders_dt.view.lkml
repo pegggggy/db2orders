@@ -7,7 +7,7 @@ view: orders_dt {
       FROM orders      ;;
 
       persist_for: "24 hours"
-      sortkeys: ["status"]
+#      indexes: ["status"]
     }
 
  dimension: user_id {
