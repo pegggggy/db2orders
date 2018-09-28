@@ -1,6 +1,6 @@
 connection: "db2_pb"
 
-# include all the views
+# include all the views!
 include: "*.view"
 
 # include all the dashboards
