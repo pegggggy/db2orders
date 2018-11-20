@@ -1,5 +1,6 @@
 connection: "db2_pb"
 #test adding from Dev branch
+#adding from Child Branch
 
 # include all the views!
 include: "*.view"
