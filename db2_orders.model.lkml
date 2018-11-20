@@ -1,4 +1,5 @@
 connection: "db2_pb"
+#test adding from Dev branch
 
 # include all the views!
 include: "*.view"
